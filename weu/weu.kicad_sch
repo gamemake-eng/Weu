@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "dcbea2a6-438c-4c89-8cc5-bc5cbeb8189c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 114.3 73.66)
+		(size 49.53 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0a6c66fd-a1af-4a5b-9852-4a1bcc18b9cc")
+		(property "Sheetname" "cm4"
+			(at 114.3 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm4.kicad_sch"
+			(at 114.3 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "weu"
+				(path "/dcbea2a6-438c-4c89-8cc5-bc5cbeb8189c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
