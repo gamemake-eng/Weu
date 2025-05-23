@@ -1,0 +1,27 @@
+Item,Cost
+Console,000
+CM4 (4G ram 8 GB emmc SC0672),55
+Esp32-wroom-32e,4
+RP2040,1
+USB-C socket,0.172
+USB-A sockets,0.1148
+Button (Basic),0.0193
+Pcb,5
+Extended parts cost,12,
+Controller,000
+Esp32-wroom-32e,4
+Screen (from buydisplay),2.28
+Battery (Digikey ID: 1528-1838-ND),9.95
+Speaker (Digikey ID: 433-1106-ND),2.03
+Buttons (DK ID: CKN12218-1-ND),9.24
+Joystick (DK ID: 1528-1730-ND),2.50
+ISM330DHCXTR (Motion sensor),5.41
+MAX98357A (Audio DAC),1.88
+USB-C socket,0.172
+PCB,5
+Extended parts cost,12
+Misc,00
+Solder (DK ID: SMDSWLF.0201OZ-ND),11.48
+Flux,11.95
+Solder wick,2
+Grand total,159
