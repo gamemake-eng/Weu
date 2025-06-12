@@ -27,3 +27,9 @@ Video, audio, and touch data will be sent and received though spi which I haven'
 I'm just gonna do that next time because i'm tired.
 
 **Total time: 1 hr 5 mins**
+
+# Adding HDMI (June 12th 2025)
+
+This is another small but necessary addition that, you guessed it, provides a output that you can connect to a display. All I had to do was connect the hdmi tx lines to the cm4 connectors. There are also some extra lines for hotplug detect and device control. Pretty simple really.
+
+**Total time: 10 mins**
